@@ -1,0 +1,25 @@
+# Sistema Financeiro em Python
+
+Este é um sistema financeiro simples desenvolvido em Python para registrar contas a pagar e a receber, visualizar essas contas e calcular o saldo atual da empresa.
+
+## Funcionalidades
+
+- Registrar contas a pagar: Permite registrar uma nova conta a pagar, especificando o valor, a data de vencimento e uma breve descrição.
+- Registrar contas a receber: Permite registrar uma nova conta a receber, especificando o valor, a data prevista de recebimento e uma breve descrição.
+- Visualizar contas a pagar: Permite visualizar uma lista das contas a pagar, exibindo o valor, a data de vencimento e a descrição.
+- Visualizar contas a receber: Permite visualizar uma lista das contas a receber, exibindo o valor, a data prevista de recebimento e a descrição.
+- Calcular saldo atual: Calcula e exibe o saldo atual da empresa, levando em consideração as contas a pagar e a receber.
+
+## Como utilizar
+
+1. Execute o programa Python `sistema_financeiro.py`.
+2. Siga as instruções do menu para realizar as operações desejadas, como registrar contas, visualizar contas ou calcular o saldo atual.
+3. Escolha a opção "Sair" para encerrar o programa.
+
+## Autor
+
+Rafael Valnásio Santos Silva
+
+## Avaliação
+
+Esta atividade foi desenvolvida como parte da avaliação da disciplina de Lógica de Programação, do curso de Análise e Desenvolvimento de Sistemas, do Centro Universitário Nobre (UNIFAN), sob orientação do professor tutor Jairo Luciano Rego.
